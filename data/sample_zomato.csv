@@ -1,0 +1,56 @@
+address,name,online_order,book_table,votes,location,cuisines,approx_cost(for two people),listed_in(type),listed_in(city),rest_type,Phone,rate
+"123 Indiranagar Main Rd, Bangalore","Spice Garden",Yes,No,450,Indiranagar,"North Indian, Chinese",800,Dining,Indiranagar,Casual Dining,+91-9876543210,4.2/5
+"45 Brigade Road, Bangalore","The Coffee Club",No,No,120,Brigade Road,"Cafe, Desserts",400,Cafes,Brigade Road,Cafe,+91-9876543211,3.8/5
+"78 Jayanagar 4th Block, Bangalore","Royal Biryani",Yes,Yes,1200,Jayanagar,"Biryani, Mughlai",1100,Delivery,Jayanagar,Quick Bites,+91-9876543212,4.5/5
+"22 Koramangala 5th Block, Bangalore","Pasta Street",Yes,Yes,890,Koramangala,Italian,1500,Buffet,Koramangala,Casual Dining,+91-9876543213,4.0/5
+"55 Whitefield Main Rd, Bangalore","Curry House",Yes,No,320,Whitefield,"North Indian, Mughlai",700,Dining,Whitefield,Casual Dining,+91-9876543214,3.9/5
+"10 MG Road, Bangalore","Brewsky",No,Yes,780,MG Road,"Continental, American",1800,Pubs and bars,MG Road,Bar,+91-9876543215,4.3/5
+"33 Bannerghatta Road, Bangalore","Dakshin Flavors",Yes,No,560,Bannerghatta Road,"South Indian",350,Dining,Bannerghatta Road,Quick Bites,+91-9876543216,4.1/5
+"7 HSR Layout, Bangalore","The Grub Hub",Yes,Yes,990,HSR Layout,"North Indian, Chinese, Continental",1200,Dining,HSR Layout,Casual Dining,+91-9876543217,4.4/5
+"89 Indiranagar 12th Main, Bangalore","Sushi Zen",No,Yes,430,Indiranagar,Japanese,2200,Dining,Indiranagar,Fine Dining,+91-9876543218,4.6/5
+"12 Koramangala 1st Block, Bangalore","Taco Loco",Yes,No,210,Koramangala,"Mexican, Continental",900,Cafes,Koramangala,Cafe,+91-9876543219,3.7/5
+"44 Brigade Road, Bangalore","Mainland China",No,Yes,1500,Brigade Road,"Chinese",2000,Dining,Brigade Road,Fine Dining,+91-9876543220,4.5/5
+"66 Jayanagar 9th Block, Bangalore","Udupi Palace",Yes,No,340,Jayanagar,"South Indian",250,Delivery,Jayanagar,Quick Bites,+91-9876543221,4.0/5
+"29 Whitefield, Bangalore","The Fatty Bao",No,Yes,620,Whitefield,"Asian, Chinese",1400,Dining,Whitefield,Casual Dining,+91-9876543222,4.2/5
+"50 MG Road, Bangalore","Truffles",Yes,No,870,MG Road,"American, Continental",800,Cafes,MG Road,Cafe,+91-9876543223,4.4/5
+"18 HSR Layout Sector 2, Bangalore","Biryani Zone",Yes,No,490,HSR Layout,"Biryani, Mughlai",600,Delivery,HSR Layout,Quick Bites,+91-9876543224,4.1/5
+"3 Bannerghatta Road, Bangalore","Pizza Hut",Yes,No,650,Bannerghatta Road,"Pizza, Italian",700,Delivery,Bannerghatta Road,Quick Bites,+91-9876543225,3.8/5
+"77 Indiranagar 100ft Road, Bangalore","The Black Pearl",No,Yes,1100,Indiranagar,"Seafood, Continental",2500,Dining,Indiranagar,Fine Dining,+91-9876543226,4.7/5
+"35 Koramangala 7th Block, Bangalore","Meghana Foods",Yes,No,2100,Koramangala,"Biryani, Andhra",500,Delivery,Koramangala,Quick Bites,+91-9876543227,4.6/5
+"91 Jayanagar 3rd Block, Bangalore","CTR",Yes,No,3200,Jayanagar,"South Indian",150,Cafes,Jayanagar,Quick Bites,+91-9876543228,4.8/5
+"15 Whitefield ITPL Road, Bangalore","Barbeque Nation",Yes,Yes,1800,Whitefield,"North Indian, BBQ",1600,Buffet,Whitefield,Casual Dining,+91-9876543229,4.3/5
+"62 MG Road, Bangalore","Hard Rock Cafe",No,Yes,940,MG Road,"American, Continental",2000,Pubs and bars,MG Road,Bar,+91-9876543230,4.2/5
+"27 HSR Layout 27th Main, Bangalore","Nandhana Palace",Yes,No,760,HSR Layout,"Andhra, Biryani",600,Dining,HSR Layout,Casual Dining,+91-9876543231,4.3/5
+"42 Bannerghatta Road, Bangalore","Cream Stone",Yes,No,380,Bannerghatta Road,"Desserts, Ice Cream",300,Cafes,Bannerghatta Road,Dessert Parlor,+91-9876543232,4.0/5
+"8 Indiranagar, Bangalore","Social",Yes,Yes,1350,Indiranagar,"Continental, American",1200,Pubs and bars,Indiranagar,Bar,+91-9876543233,4.4/5
+"54 Koramangala 4th Block, Bangalore","Chutney Chang",Yes,No,420,Koramangala,"Chinese, Tibetan",700,Dining,Koramangala,Casual Dining,+91-9876543234,3.9/5
+"19 Jayanagar, Bangalore","Vidyarthi Bhavan",No,No,4500,Jayanagar,"South Indian",100,Cafes,Jayanagar,Quick Bites,+91-9876543235,4.9/5
+"73 Whitefield, Bangalore","Flechazo",No,Yes,530,Whitefield,"Spanish, Continental",2200,Dining,Whitefield,Fine Dining,+91-9876543236,4.5/5
+"38 MG Road, Bangalore","Theos",Yes,No,290,MG Road,"Cafe, Desserts",500,Cafes,MG Road,Cafe,+91-9876543237,3.8/5
+"6 HSR Layout, Bangalore","The Permit Room",No,Yes,810,HSR Layout,"South Indian, Contemporary",1500,Dining,HSR Layout,Casual Dining,+91-9876543238,4.4/5
+"48 Bannerghatta Road, Bangalore","KFC",Yes,No,510,Bannerghatta Road,"Fast Food, Burgers",400,Delivery,Bannerghatta Road,Quick Bites,+91-9876543239,3.7/5
+"16 Indiranagar 1st Stage, Bangalore","Hole in the Wall Cafe",Yes,No,670,Indiranagar,"Cafe, Continental",800,Cafes,Indiranagar,Cafe,+91-9876543240,4.2/5
+"59 Koramangala 6th Block, Bangalore","Chianti",No,Yes,730,Koramangala,"Italian",2000,Dining,Koramangala,Fine Dining,+91-9876543241,4.5/5
+"83 Jayanagar 4th T Block, Bangalore","Adyar Ananda Bhavan",Yes,No,280,Jayanagar,"South Indian, Sweets",200,Delivery,Jayanagar,Quick Bites,+91-9876543242,4.1/5
+"25 Whitefield, Bangalore","Farzi Cafe",Yes,Yes,1050,Whitefield,"Modern Indian, Continental",1800,Dining,Whitefield,Casual Dining,+91-9876543243,4.3/5
+"71 MG Road, Bangalore","13th Floor",No,Yes,920,MG Road,"Continental, American",2500,Pubs and bars,MG Road,Bar,+91-9876543244,4.4/5
+"32 HSR Layout, Bangalore","Absolute Barbecues",Yes,Yes,1430,HSR Layout,"BBQ, North Indian",1400,Buffet,HSR Layout,Casual Dining,+91-9876543245,4.2/5
+"57 Bannerghatta Road, Bangalore","Mcdonald's",Yes,No,620,Bannerghatta Road,"Fast Food, Burgers",350,Delivery,Bannerghatta Road,Quick Bites,+91-9876543246,3.6/5
+"4 Indiranagar, Bangalore","Toit",No,Yes,1680,Indiranagar,"Continental, American, Pub Food",1500,Pubs and bars,Indiranagar,Microbrewery,+91-9876543247,4.6/5
+"68 Koramangala 3rd Block, Bangalore","Punjabi Dhaba",Yes,No,340,Koramangala,"North Indian, Punjabi",500,Dining,Koramangala,Casual Dining,+91-9876543248,3.8/5
+"11 Jayanagar 8th Block, Bangalore","Taaza Thindi",Yes,No,890,Jayanagar,"South Indian",120,Delivery,Jayanagar,Quick Bites,+91-9876543249,4.3/5
+"47 Whitefield, Bangalore","Paradise Biryani",Yes,No,720,Whitefield,"Biryani, Mughlai",650,Delivery,Whitefield,Quick Bites,+91-9876543250,4.2/5
+"20 MG Road, Bangalore","Ebony",No,Yes,580,MG Road,"Continental, Indian",2800,Dining,MG Road,Fine Dining,+91-9876543251,4.5/5
+"36 HSR Layout, Bangalore","Dyu Art Cafe",No,No,430,HSR Layout,"Cafe, Continental",600,Cafes,HSR Layout,Cafe,+91-9876543252,4.1/5
+"64 Bannerghatta Road, Bangalore","Domino's Pizza",Yes,No,480,Bannerghatta Road,"Pizza, Fast Food",450,Delivery,Bannerghatta Road,Quick Bites,+91-9876543253,3.7/5
+"24 Indiranagar, Bangalore","Smoor Chocolates",No,No,310,Indiranagar,"Desserts, Cafe",700,Cafes,Indiranagar,Dessert Parlor,+91-9876543254,4.2/5
+"75 Koramangala, Bangalore","Glen's Bakehouse",No,No,560,Koramangala,"Bakery, Cafe, Desserts",500,Cafes,Koramangala,Cafe,+91-9876543255,4.3/5
+"13 Jayanagar, Bangalore","Brahmin's Coffee Bar",Yes,No,1200,Jayanagar,"South Indian",80,Cafes,Jayanagar,Quick Bites,+91-9876543256,4.7/5
+"88 Whitefield, Bangalore","Hammered",No,Yes,670,Whitefield,"Continental, American, Pub Food",1600,Pubs and bars,Whitefield,Bar,+91-9876543257,4.1/5
+"43 MG Road, Bangalore","The Only Place",No,Yes,810,MG Road,"American, Continental",1500,Dining,MG Road,Fine Dining,+91-9876543258,4.4/5
+"28 HSR Layout, Bangalore","Vasudev Adiga's",Yes,No,590,HSR Layout,"South Indian",200,Delivery,HSR Layout,Quick Bites,+91-9876543259,4.0/5
+"New Restaurant, Indiranagar","Zara's Kitchen",Yes,No,0,Indiranagar,"Mediterranean, Continental",1200,Dining,Indiranagar,Casual Dining,+91-9876543260,NEW
+"90 Brigade Road, Bangalore","The Skyye Lounge",No,Yes,430,Brigade Road,"Continental, Pan Asian",3000,Pubs and bars,Brigade Road,Bar,+91-9876543261,4.3/5
+"17 Koramangala, Bangalore","Irani Cafe",Yes,No,260,Koramangala,"Cafe, Iranian",400,Cafes,Koramangala,Cafe,+91-9876543262,-
+"52 Bannerghatta Road, Bangalore","Box8",Yes,No,350,Bannerghatta Road,"North Indian, Chinese",400,Delivery,Bannerghatta Road,Quick Bites,+91-9876543263,4.0/5
+"39 Indiranagar, Bangalore","100ft Boutique Hostel Cafe",No,No,180,Indiranagar,"Cafe, Continental",600,Cafes,Indiranagar,Cafe,+91-9876543264,3.9/5
